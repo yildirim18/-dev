@@ -26,8 +26,8 @@
  { 
 	"yemek_id":3,
 	"yemek_adi":"Mercimek çorbası",
-	"yemek_aciklama":"Çorba",
-	"yemek_tur":"Çorba",
+	"yemek_aciklama":"corba",
+	"yemek_tur":"corba",
 	"yemek_pisirme_suresi":"John",
 	"yemek_hazirlama_suresi":"John",
 	"yemek_kisi_sayisi":"John",
