@@ -1,7 +1,7 @@
 ﻿{"yemekler":[
     { 
 	"yemek_id":1,
-	"yemek_adi":"Yemek Adı 1",
+	"yemek_adi":"Közde Tavuk ",
 	"yemek_aciklama":"Tarifin Detayları",
 	"yemek_tur":"John",
 	"yemek_pisirme_suresi":"John",
@@ -13,7 +13,7 @@
 	 },
  { 
 	"yemek_id":2,
-	"yemek_adi":"doe",
+	"yemek_adi":"Tavuk Kanat",
 	"yemek_aciklama":"John",
 	"yemek_tur":"John",
 	"yemek_pisirme_suresi":"John",
@@ -25,7 +25,7 @@
 	 },
  { 
 	"yemek_id":3,
-	"yemek_adi":"doe",
+	"yemek_adi":"Mercimek çorbası",
 	"yemek_aciklama":"John",
 	"yemek_tur":"John",
 	"yemek_pisirme_suresi":"John",
