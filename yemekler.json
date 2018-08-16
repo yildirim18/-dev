@@ -1,0 +1,38 @@
+﻿{"yemekler":[
+    { 
+	"yemek_id":1,
+	"yemek_adi":"Yemek Adı 1",
+	"yemek_aciklama":"Tarifin Detayları",
+	"yemek_tur":"John",
+	"yemek_pisirme_suresi":"John",
+	"yemek_hazirlama_suresi":"John",
+	"yemek_kisi_sayisi":"John",
+	"yemek_resim":"John",
+	"yemek_malzemeler":"John"
+
+	 },
+ { 
+	"yemek_id":2,
+	"yemek_adi":"doe",
+	"yemek_aciklama":"John",
+	"yemek_tur":"John",
+	"yemek_pisirme_suresi":"John",
+	"yemek_hazirlama_suresi":"John",
+	"yemek_kisi_sayisi":"John",
+	"yemek_resim":"John",
+	"yemek_malzemeler":"John"
+
+	 },
+ { 
+	"yemek_id":3,
+	"yemek_adi":"doe",
+	"yemek_aciklama":"John",
+	"yemek_tur":"John",
+	"yemek_pisirme_suresi":"John",
+	"yemek_hazirlama_suresi":"John",
+	"yemek_kisi_sayisi":"John",
+	"yemek_resim":"John",
+	"yemek_malzemeler":"John"
+
+	 }
+]}
